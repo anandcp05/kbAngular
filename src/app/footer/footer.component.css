@@ -2,10 +2,10 @@ div {
     text-align: center;
     font-size: 26px;
     color: blue;
-    background-color: orange;
     position: fixed;
     left: 0px;
-    top: 0px;
-    height: 60px;
+    bottom: 0px;
+    height: 40px;
     width: 100%;
+    background: #999;
 }

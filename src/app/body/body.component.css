@@ -1,0 +1,39 @@
+form {
+    padding: 20px;
+}
+
+#formdiv {
+    position: relative;
+    border: 1px dotted green;
+    margin: 0 auto;
+    width: 30%;
+    height: 400px;
+}
+
+#form {
+    margin-top: 80px;
+    text-align: center;
+}
+
+input[type="text"],
+input[type="password"] {
+    margin-top: 20px;
+    width: 80%;
+    height: 30px;
+}
+
+input[type="button"] {
+    margin-top: 20px;
+    width: 80%;
+    height: 30px;
+}
+
+label {
+    width: 50%;
+}
+
+img {
+    margin-top: 20px;
+    border-radius: 50%;
+    background: green;
+}
